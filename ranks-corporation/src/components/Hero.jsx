@@ -25,7 +25,7 @@ export default function Hero() {
         </a>
 
         <a
-          href="https://github.com/ranks-corporation"
+          href="https://github.com/ranks-corporations"
           target="_blank"
           className="border border-orange-500 px-6 py-3 rounded-xl"
         >

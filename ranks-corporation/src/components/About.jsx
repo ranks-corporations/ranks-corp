@@ -15,6 +15,7 @@ export default function About() {
         and long-term growth.
 
         Create. Build. Improve.
+        By the founder: "ranks"
       </p>
 
     </section>

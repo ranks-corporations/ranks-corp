@@ -11,7 +11,7 @@ export default function Github() {
       </p>
 
       <a
-        href="https://github.com/ranks-corporation"
+        href="https://github.com/ranks-corporations"
         target="_blank"
         className="bg-orange-500 px-8 py-4 rounded-xl font-bold"
       >
