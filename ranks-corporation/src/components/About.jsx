@@ -15,7 +15,7 @@ export default function About() {
         and long-term growth.
 
         Create. Build. Improve.
-        By the founder: "ranks"
+        By the founder: Tebello "ranks" Rankuatsana
       </p>
 
     </section>
