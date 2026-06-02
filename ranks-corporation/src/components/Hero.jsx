@@ -3,10 +3,10 @@ export default function Hero() {
     <section className="min-h-screen flex flex-col justify-center items-center px-6 text-center">
 
       <img
-        src="/logo.png"
+        src="/ranks-corp-logo.png"
         alt="Ranks Corporation"
-        className="w-40 mb-8 orange-glow rounded-full"
-      />
+        className="w-40 mb-8 orange-glow"
+       />
 
       <h1 className="text-6xl font-black mb-4">
         Ranks Corporation
