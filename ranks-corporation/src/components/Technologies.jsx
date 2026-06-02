@@ -2,13 +2,16 @@ export default function Technologies() {
 
   const tech = [
     "Java",
-    "Lua",
+    "JavaFX",
     "JavaScript",
     "React",
     "Node.js",
     "MySQL",
-    "Neo4j",
-    "Cybersecurity"
+    "PostgreSQL",
+    "MongoDB",
+    "Cybersecurity",
+    "3d Modeling",
+    "Poster Design"
   ];
 
   return (
